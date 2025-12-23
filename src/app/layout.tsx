@@ -45,7 +45,7 @@ export default function RootLayout({
 	return (
 		<html lang='en' suppressHydrationWarning>
 			<head suppressHydrationWarning>
-				<meta name="google-adsense-account" content="ca-pub-6204043439695636"/>
+				<meta name="google-adsense-account" content="ca-pub-1295131694382668"/>
 				<script
 					async
 					src='https://www.googletagmanager.com/gtag/js?id=XXXXXXXXXXXXX'
